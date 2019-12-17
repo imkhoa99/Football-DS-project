@@ -8,7 +8,7 @@
 - Create visualizations to highlight the trends in the data 
 
 ## Data source: 
-The data was collected and distributed by Football-Data.co.uk. For this project we are using the results of the Premier league in seasons 2016, 2017 and 2018. The data have been split in train and test (approximately 70% of the data are the training set, and 30% are the test set), and are divided in 4 .csv files:
+The data was collected and distributed by Football-Data.co.uk. For this project I am using the results of the Premier league in seasons 2016, 2017 and 2018. The data have been split in train and test (approximately 70% of the data are the training set, and 30% are the test set), and are divided in 4 .csv files:
 - football train x: contains 798 observations and 13 columns as features.
 - football train y: contains the labels “FTG" (full time goal which is the total number of goals in the whole
 match) that you will need for the regression task and “Interest" for classification for these 798 observations.
