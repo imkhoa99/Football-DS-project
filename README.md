@@ -14,4 +14,4 @@ The data was collected and distributed by Football-Data.co.uk. For this project 
 match) that you will need for the regression task and “Interest" for classification for these 798 observations.
 - football test x and football test y sets have the same respective structure and contain 342 observations.
 
-Link to the project: https://github.com/imkhoa99/Football-DS-project/blob/master/code_snippets/Football%20DS%20project.ipynb.
+Project link: https://github.com/imkhoa99/Football-DS-project/blob/master/code_snippets/Football%20DS%20project.ipynb.
